@@ -20,3 +20,5 @@ ds1307.cpp
 ch4.cpp
 co2.cpp
 nh3.cpp
+
+Nota: Para ampliar el numero de salidas,se usa un CD4051B que es un demultiplexor analógico
